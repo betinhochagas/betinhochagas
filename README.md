@@ -13,10 +13,10 @@ Blumenau, SC, Brasil — Fundador da [BNU Tech](https://bnutech.com.br)
 ## Sobre mim
 
 Desenvolvo sistemas SaaS completos — do banco de dados ao deploy.
-Fundei a **[BNU Tech](https://bnutech.com.br)** para entregar solucoes sob medida com qualidade e agilidade.
+Fundei a **[BNU Tech](https://bnutech.com.br)** para entregar soluções sob medida com qualidade e agilidade.
 
 - Dono da BNU Tech — desenvolvimento de sistemas web em Blumenau/SC
-- Sistemas em producao: RVCAR System, Orbit, Printer Monitor, Virtual Store
+- Sistemas em produção: RVCAR System, Orbit, Printer Monitor, Virtual Store
 - Stack atual: NestJS 11 + React 19 + PostgreSQL + AWS S3 + Railway + Vercel
 - Especializado em monorepos TypeScript full-stack
 - Aberto a oportunidades remotas
@@ -52,12 +52,12 @@ Fundei a **[BNU Tech](https://bnutech.com.br)** para entregar solucoes sob medid
 
 ---
 
-## Projetos em producao
+## Projetos em produção
 
-| Projeto | Descricao | Stack |
+| Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**RVCAR System**](https://portal.rvcarlocacoes.com.br) | Plataforma SaaS de locacao de veiculos para motoristas de app | NestJS · React 19 · PostgreSQL · AWS S3 |
-| **Orbit** | Sistema de gestao para equipes de TI em ambiente Windows | ASP.NET Core · Next.js · PowerShell |
+| [**RVCAR System**](https://portal.rvcarlocacoes.com.br) | Plataforma SaaS de locação de veículos para motoristas de app | NestJS · React 19 · PostgreSQL · AWS S3 |
+| **Orbit** | Sistema de gestão para equipes de TI em ambiente Windows | ASP.NET Core · Next.js · PowerShell |
 | **Printer Monitor** | Monitoramento de impressoras via SNMP com alertas em tempo real | NestJS · WebSockets · BullMQ · Redis |
 | **Virtual Store** | Loja virtual com gateway de pagamento integrado | NestJS · Next.js 14 · Stripe · Cloudinary |
 
@@ -69,4 +69,4 @@ Fundei a **[BNU Tech](https://bnutech.com.br)** para entregar solucoes sob medid
 
 ---
 
-*Blumenau, SC — disponivel para oportunidades remotas*
+*Blumenau, SC — disponível para oportunidades remotas*
