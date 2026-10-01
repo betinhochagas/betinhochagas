@@ -1,8 +1,8 @@
 # Roberto Chagas
 
-**Full Stack Developer** | TypeScript · NestJS · React · Node.js
+**Desenvolvedor Full Stack** · TypeScript · Node.js/NestJS · React · C#/.NET · IA aplicada
 
-Blumenau, SC, Brasil — Fundador da [BNU Tech](https://bnutech.com.br)
+Blumenau, SC · Fundador da [BNU Tech](https://bnutech.com.br)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-roberto--chagas--dev-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/roberto-chagas-dev)
 [![BNU Tech](https://img.shields.io/badge/BNU_Tech-bnutech.com.br-1a3c5e?style=flat-square&logo=googlechrome&logoColor=white)](https://bnutech.com.br)
@@ -12,61 +12,57 @@ Blumenau, SC, Brasil — Fundador da [BNU Tech](https://bnutech.com.br)
 
 ## Sobre mim
 
-Desenvolvo sistemas SaaS completos — do banco de dados ao deploy.
-Fundei a **[BNU Tech](https://bnutech.com.br)** para entregar soluções sob medida com qualidade e agilidade.
+13 anos de TI. Comecei em suporte e infraestrutura, inclusive em ambiente hospitalar 24x7, e desde
+2024 desenvolvo sistemas completos, do banco ao deploy. Construo as ferramentas que eu mesmo precisava
+quando estava do outro lado, atendendo o usuário.
 
-- Dono da BNU Tech — desenvolvimento de sistemas web em Blumenau/SC
-- Sistemas em produção: RVCAR System, Orbit, Printer Monitor, Virtual Store
-- Stack atual: NestJS 11 + React 19 + PostgreSQL + AWS S3 + Railway + Vercel
-- Especializado em monorepos TypeScript full-stack
-- Aberto a oportunidades remotas
-
----
-
-## Tech Stack
-
-**Backend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-
-**Cloud & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+Desenvolvo com **Claude Code** no dia a dia, dentro de um método: memória de projeto versionada
+(`CLAUDE.md`), sessões com começo e fim, decisões registradas em ADR e CI como portão de qualidade.
+A IA acelera; a decisão e a responsabilidade pelo código são minhas.
 
 ---
 
-## Projetos em produção
+## Sistemas em produção
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**RVCAR System**](https://portal.rvcarlocacoes.com.br) | Plataforma SaaS de locação de veículos para motoristas de app | NestJS · React 19 · PostgreSQL · AWS S3 |
-| **Orbit** | Sistema de gestão para equipes de TI em ambiente Windows | ASP.NET Core · Next.js · PowerShell |
-| **Printer Monitor** | Monitoramento de impressoras via SNMP com alertas em tempo real | NestJS · WebSockets · BullMQ · Redis |
-| **Virtual Store** | Loja virtual com gateway de pagamento integrado | NestJS · Next.js 14 · Stripe · Cloudinary |
+O código fica em repositório privado porque os sistemas rodam com dados reais de clientes. O que dá para mostrar está linkado.
+
+| Sistema | O que é | Escala | Stack |
+|---|---|---|---|
+| **RVCAR / Moven** · [vitrine técnica](https://github.com/betinhochagas/rvcar-system-vitrine) | SaaS multi-tenant de gestão de locação de veículos para motoristas de app | 2.965 commits · ~182 mil linhas · +6.700 casos de teste · 60 ADRs | NestJS · React 19 · PostgreSQL · Prisma · BullMQ · Docker |
+| **Portal da TI (OrbIT)** · [vitrine](https://github.com/betinhochagas/Portal-da-TI) | Gestão de ~750 estações Windows num hospital, com assistente de IA (function calling) | ~85 mil linhas em C#, TypeScript e PowerShell | ASP.NET Core (.NET 10) · Next.js · Semantic Kernel |
+| **Fabiana Beauty Hair** · [site](https://www.fmbeautyhair.com.br) | Agendamento online para salão, com sinal via PIX e painel administrativo | Em produção | Cloudflare Workers · D1 · TanStack Start · Mercado Pago |
 
 ---
 
-## GitHub Stats
+## Código aberto
+
+| Repositório | O que mostra |
+|---|---|
+| [**varejo-mcp**](https://github.com/betinhochagas/varejo-mcp) | Servidor **MCP** em TypeScript: tools somente leitura sobre uma base de vendas, sem SQL livre, testes ponta a ponta com o cliente MCP oficial |
+| [**prospeccao-ia-claude**](https://github.com/betinhochagas/prospeccao-ia-claude) | Dois agentes em Python com a **API do Claude**: modelo escolhido por custo/tarefa, visão multimodal, contabilidade de token, dry-run de custo zero |
+| [**portfolio-analise-varejo**](https://github.com/betinhochagas/portfolio-analise-varejo) | Análise de dados ponta a ponta: ETL em Python, SQL, dbt, BigQuery, Airflow, Power BI e Looker Studio |
+
+---
+
+## IA aplicada
+
+- **Agente com function calling em produção:** Semantic Kernel (.NET), 6 tools, **todas somente leitura**. O backend executa ações remotas, mas nenhuma foi exposta ao modelo.
+- **API do Claude:** modelo por tarefa (Haiku × Sonnet), visão multimodal, streaming, controle de custo por chamada.
+- **MCP:** servidores configurados em projeto real (Railway, Vercel, Sentry) e um servidor próprio publicado.
+- **OCR local por LGPD:** Tesseract.js (WebAssembly) no navegador, para o documento do usuário não sair da máquina.
+
+---
+
+## Stack
+
+**Backend:** TypeScript · Node.js · NestJS · C# / ASP.NET Core · Python · PostgreSQL · Prisma · Redis/BullMQ
+
+**Frontend:** React 19 · Next.js · Vite · TanStack · Tailwind CSS
+
+**Infra:** Docker · GitHub Actions · AWS S3 · Railway · Vercel · Cloudflare
+
+**IA:** Claude API · Claude Code · MCP · Semantic Kernel · Tesseract.js
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=betinhochagas&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
----
-
-*Blumenau, SC — disponível para oportunidades remotas*
